@@ -1,5 +1,7 @@
 ---
 layout: home
+header:
+  image: /assets/images/header_ducks.jpg
 ---
  Geek.
  Web.
