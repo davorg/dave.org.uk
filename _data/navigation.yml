@@ -1,0 +1,18 @@
+main:
+  - title: "Readin'"
+    url: /reading/
+  - title: "Writin'"
+    url: /writing/
+  - title: "Watchin'"
+    url: /watching/
+  - title: "Listin'"
+    url: /listening/
+  - title: "Travellin'"
+    url: /travelling/
+  - title: "Snappin'"
+    url: /snapping/
+  - title: "Codin'"
+    url: /coding/
+  - title: "Contact"
+    url: /contact/
+
