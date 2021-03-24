@@ -1,3 +1,7 @@
+--
+layout: single
+--
+
 Some stuff I've been reading recently.
 
 For more details, see my [Goodreads account](https://www.goodreads.com/author/show/6884929.David_Cross).
