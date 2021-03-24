@@ -1,6 +1,6 @@
---
+---
 layout: single
---
+---
 
 Some stuff I've been reading recently.
 
