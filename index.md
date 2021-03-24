@@ -1,5 +1,6 @@
-# Dave Cross
-
+---
+layout: home
+---
  Geek.
  Web.
  Social Media.

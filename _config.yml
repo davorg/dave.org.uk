@@ -8,4 +8,5 @@ locale: "en-GB"
 title: "Dave Cross"
 subtitle: "Geek at large"
 name: "Dave Cross"
+timezone: Europe/London
 
