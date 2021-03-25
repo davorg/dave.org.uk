@@ -5,9 +5,11 @@ layout: single
 <script type="text/javascript"> 
 <!-- 
 rssfeed_url = new Array(); 
-rssfeed_url[0]="https://dave.org.uk/feed"; rssfeed_url[1]="https://perlhacks.com/feed"; rssfeed_url[2]="https://dev.to/feed/davorg";  
-rssfeed_frame_width="230"; 
-rssfeed_frame_height="260"; 
+rssfeed_url[0]="https://dave.org.uk/feed";
+rssfeed_url[1]="https://perlhacks.com/feed";
+rssfeed_url[2]="https://dev.to/feed/davorg";  
+rssfeed_frame_width="500"; 
+rssfeed_frame_height="500"; 
 rssfeed_scroll="on"; 
 rssfeed_scroll_step="6"; 
 rssfeed_scroll_bar="off"; 
@@ -15,7 +17,7 @@ rssfeed_target="_blank";
 rssfeed_font_size="12"; 
 rssfeed_font_face=""; 
 rssfeed_border="on"; 
-rssfeed_css_url="https://feed.surfing-waves.com/css/style4.css"; 
+rssfeed_css_url=""; 
 rssfeed_title="off"; 
 rssfeed_title_name=""; 
 rssfeed_title_bgcolor="#3366ff"; 
