@@ -1,6 +1,9 @@
 ---
 layout: single
 ---
+
+Stuff I've been writing recently.
+
 <!-- start sw-rss-feed code --> 
 <script type="text/javascript"> 
 <!-- 
@@ -17,7 +20,7 @@ rssfeed_target="_blank";
 rssfeed_font_size="12"; 
 rssfeed_font_face=""; 
 rssfeed_border="on"; 
-rssfeed_css_url=""; 
+rssfeed_css_url="/css/writing.css"; 
 rssfeed_title="off"; 
 rssfeed_title_name=""; 
 rssfeed_title_bgcolor="#3366ff"; 
