@@ -1,3 +1,6 @@
+---
+layout: single
+---
 <!-- start sw-rss-feed code --> 
 <script type="text/javascript"> 
 <!-- 
