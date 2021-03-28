@@ -2,7 +2,7 @@
 layout: single
 ---
 
-<script src=2https://raw.githubusercontent.com/davorg/rss_widget/main/rss_widget.js"></script>
+<script src="https://raw.githubusercontent.com/davorg/rss_widget/main/rss_widget.js"></script>
 <script>
 const FEEDS = [ {
   url: `https://dev.to/feed/davorg`,
