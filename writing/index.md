@@ -29,4 +29,4 @@ $(document).ready(function() {
 
 Stuff I've been writing recently.
 
-<div id="#rss_here" />
+<div id="rss_here" />
