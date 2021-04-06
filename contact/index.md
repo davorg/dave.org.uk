@@ -2,6 +2,8 @@
 layout: single
 ---
 
+# Contact
+
 ## Biog
 
 In case you’re wondering whether you know me, here’s a brief biography.
