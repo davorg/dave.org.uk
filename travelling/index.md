@@ -1,5 +1,6 @@
 ---
 layout: single
+title: Travelin'
 ---
 
 A list of countries I have visited. Currently, there are 50 countries on the list. Perhaps I’ve missed a couple.

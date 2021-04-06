@@ -1,5 +1,7 @@
 ---
 layout: home
+title: dave.org.uk
+subitle: I'm Dave and this is my web site
 header:
   image: /assets/images/header_ducks_trim.jpg
 ---

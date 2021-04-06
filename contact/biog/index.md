@@ -1,9 +1,7 @@
 ---
 layout: single
+title: Biography
 ---
-
-# Biography
-
 
 * **1962** Born in Colchester. Lived in Holland-on-Sea, Essex
 * **1967 – 74**	School at Holland Park School

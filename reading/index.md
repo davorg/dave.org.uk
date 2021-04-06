@@ -1,5 +1,6 @@
 ---
 layout: single
+title: Readin'
 ---
 
 Some stuff I've been reading recently.

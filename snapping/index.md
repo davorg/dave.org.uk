@@ -1,5 +1,6 @@
 ---
 layout: single
+title: Snappin'
 ---
 
 I’m currently taking photos with a rather old Nikon D90. And (more often) with the camera in a Pixel 5.

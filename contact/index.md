@@ -1,8 +1,7 @@
 ---
 layout: single
+title: Contact
 ---
-
-# Contact
 
 ## Biog
 

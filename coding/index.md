@@ -1,5 +1,6 @@
 ---
 layout: single
+title: Codin'
 ---
 
 Some geeky projects that I’m involved with.
