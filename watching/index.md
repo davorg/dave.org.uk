@@ -14,7 +14,7 @@ const FEEDS = [ {
 
 $(document).ready(function() {
 
-  make_rss_widget(FEEDS, 'video_here');
+  make_atom_widget(FEEDS, 'video_here');
 });
 
 </script>
