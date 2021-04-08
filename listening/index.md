@@ -8,7 +8,7 @@ title: Listenin'
 <script src="../atom_widget.js"></script>
 <script>
 const FEEDS = [ {
-  url: `https://dave.org.uk/feed-data/lastfm.xml`,
+  url: `https://feeds/dave.org.uk/music`,
   desc: 'last.fm'
 } ];
 
