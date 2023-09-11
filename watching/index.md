@@ -8,7 +8,7 @@ title: Watchin'
 <script src="../atom_widget.js"></script>
 <script>
 const FEEDS = [ {
-  url: `https://feeds.dave.org.uk/video`,
+  url: `https://feeds.davecross.co.uk/video`,
   desc: 'Trakt TV'
 } ];
 
