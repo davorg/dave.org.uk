@@ -10,3 +10,7 @@ subtitle: "I'm Dave and this is my web site"
 name: "Dave Cross"
 timezone: Europe/London
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-XYYWCL6B9R"
