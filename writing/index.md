@@ -14,7 +14,7 @@ const FEEDS = [ {
   url: `https://perlhacks.com/feed`,
   desc: 'Perl Hacks'
 }, {
-  url: `https://davecross.substack.com/feed`,
+  url: `https://feeds.davecross.co.uk/substack`,
   desc: 'Substack'
 }, {
   url: `https://blog.dave.org.uk/feed`,
