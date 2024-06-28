@@ -12,8 +12,7 @@ const FEEDS = [ {
   desc: 'TV'
 } ];
 
-$(document).ready(function() {
-
+document.addEventListener('DOMContentLoaded', function() {
   make_feed_widget(FEEDS, 'video_here');
 });
 

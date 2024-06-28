@@ -9,8 +9,7 @@ const FEEDS = [ {
   desc: 'last.fm'
 } ];
 
-$(document).ready(function() {
-
+document.addEventListener('DOMContentLoaded', function() {
   make_feed_widget(FEEDS, 'tunes_here');
 });
 
