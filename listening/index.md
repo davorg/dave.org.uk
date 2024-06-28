@@ -2,7 +2,7 @@
 layout: single
 title: Listenin'
 ---
-<script src="../feed_widget.js"></script>
+<script src="https://cdn.davecross.co.uk/js/feed_widget.js"></script>
 <script>
 const FEEDS = [ {
   url: `https://feeds.davecross.co.uk/music`,
