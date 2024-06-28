@@ -9,6 +9,7 @@ title: "Dave Cross"
 subtitle: "I'm Dave and this is my web site"
 name: "Dave Cross"
 timezone: Europe/London
+locale: "en-GB"
 
 analytics:
   provider: "google-gtag"
