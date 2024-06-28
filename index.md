@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: dave.org.uk
 subitle: I'm Dave and this is my web site
 header:

@@ -31,3 +31,14 @@ footer:
     - label: "Other links"
       url: "https://links.davecross.co.uk/"
 
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
