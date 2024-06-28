@@ -198,6 +198,10 @@ areas :
 		"id": "BA",
 		"showAsSelected": true
 	},
+    {
+        "id": "CA",
+		"showAsSelected": true
+    },
 	{
 		"id": "HR",
 		"showAsSelected": true
@@ -222,6 +226,10 @@ areas :
 		"id": "DE",
 		"showAsSelected": true
 	},
+    {
+        "id": "GE",
+		"showAsSelected": true
+    },
 	{
 		"id": "GI",
 		"showAsSelected": true
