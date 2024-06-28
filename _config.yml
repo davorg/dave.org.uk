@@ -16,3 +16,6 @@ analytics:
   provider: "google-gtag"
   google:
     tracking_id: "G-XYYWCL6B9R"
+
+atom_feed:
+  hide: true
