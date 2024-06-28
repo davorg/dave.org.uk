@@ -10,6 +10,7 @@ subtitle: "I'm Dave and this is my web site"
 name: "Dave Cross"
 timezone: Europe/London
 locale: "en-GB"
+repository: "davorg/dave.org.uk"
 
 analytics:
   provider: "google-gtag"
