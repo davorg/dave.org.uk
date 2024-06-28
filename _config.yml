@@ -42,3 +42,5 @@ defaults:
       read_time: true
       share: true
       related: true
+      header:
+        image: /assets/images/header_ducks_trim.jpg

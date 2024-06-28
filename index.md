@@ -1,9 +1,8 @@
 ---
 layout: single
 title: dave.org.uk
+read_time: false
 subitle: I'm Dave and this is my web site
-header:
-  image: /assets/images/header_ducks_trim.jpg
 ---
  Geek.
  Web.
