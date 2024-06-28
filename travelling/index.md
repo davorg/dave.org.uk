@@ -3,7 +3,7 @@ layout: single
 title: Travelin'
 ---
 
-A list of countries I have visited. Currently, there are 50 countries on the list. Perhaps I’ve missed a couple.
+A list of countries I have visited. Currently, there are 52 countries on the list. Perhaps I’ve missed a couple.
 
 1. **Albania**\
    One day (actually about five hours) in Shkodër on a day-trip from Dubrovnik in July 2016.
@@ -28,6 +28,9 @@ A list of countries I have visited. Currently, there are 50 countries on the lis
 
 1. **Botswana**\
    Day trip to Chobe on a holiday in Zimbabwe in 1999
+
+1. **Canada**\
+   Conference in Toronto in July 2023
 
 1. **China**\
    Three week holiday in 1998(?)
@@ -54,7 +57,10 @@ A list of countries I have visited. Currently, there are 50 countries on the lis
    One day stop in Helsinki on Baltic cruise in 2010(?)
 
 1. **France**\
-   Not as often as you might think. A couple of trips to Paris (a holiday in 1988 and conference in 2003), a trip to Cannes in about 2005 and a few day trips to Boulogne and Calais. Oh, and visits to Martinique (cruise 2006) and Reunion (cruise 2014).
+   Not as often as you might think. A couple of trips to Paris (a holiday in 1988 and conference in 2003), a trip to Cannes in about 2005 and a few day trips to Boulogne and Calais. A few days in Saint Malo in summer 2023. Oh, and visits to Martinique (cruise 2006) and Reunion (cruise 2014).
+
+1. **Georgia**\
+   A long weekend in Tbilisi in March 2023 (first time leaving the country after the pandemic!)
 
 1. **Germany**\
    School trip to Saint Goar (no, me neither) in 1977 and a few business meetings in Hanover in about 1990. Oh, and two trips to Berlin – a cruise stop in 2010(?) (one that required a three-hour coach journey!) and a long weekend in 2012.
@@ -123,7 +129,7 @@ Day trip from one of my trips to Brussels.
    Christmas 2012 in a safari lodge on a private game reserve near Kruger and then in Cape Town. And then the same again (but in the opposite order) around Christmas 2016.
 
 1. **Spain**\
-   Worked in Madrid for a few months in 1992/3. Christmas 2006 cruise left from Barcelona. Two-week holiday/conference in Granada in 2015.
+   Worked in Madrid for a few months in 1992/3. Christmas 2006 cruise left from Barcelona. Two-week holiday/conference in Granada in 2015. Trips to Seville and Ibiza in 2023
 
 1. **Sweden**\
    A one-day stop in Stockholm on a cruise in 2010(?).
@@ -135,7 +141,7 @@ Day trip from one of my trips to Brussels.
    One day stop in Dar-Es-Salaam in Christmas 2014, followed by two days on Zanzibar.
 
 1. **Turkey**\
-   Two stops on the 2004 cruise. One in Istanbul and one at Ephesus.
+   Two stops on the 2004 cruise. One in Istanbul and one at Ephesus. And a slightly longer visit to Istanbul in 2023.
 
 1. **Turks and Caicos**\
    One day stop on the 2006 cruise.
