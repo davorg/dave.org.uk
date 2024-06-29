@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/davorg
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://dave.org.uk
+  * I am davorg (https://keybase.io/davorg) on keybase.
+  * I have a public key with fingerprint 4D8C A086 7A90 F3F0 AD97  F554 2A0F E00B D8E3 5D11
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "4d8ca0867a90f3f0ad97f5542a0fe00bd8e35d11",
+            "host": "keybase.io",
+            "key_id": "2a0fe00bd8e35d11",
+            "kid": "01019d22ce90a0a537a6397ca0d6357f01c821b3830e1e65c11b95642b0821b70df30a",
+            "uid": "095be639f5504597f2cc290f711a6d19",
+            "username": "davorg"
+        },
+        "service": {
+            "hostname": "dave.org.uk",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1427803703,
+    "expire_in": 157680000,
+    "prev": "28b774511d41f8c828f5071d70a8087d60646052aad5b4321f8b2cde4e94baff",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMITAnicbVJbSBRRGN5NrTTFLDKzCzWV+SB6ztzOzGJE9BJkUFGElW1n5pxZJ3Vn
+d3Z2zdwgvPQQWEk+pMF2EdOH8MkgilDDF5OiCPQlQRIsE5LwglZWZ6zopfNyON//
+/d///R9nICPJk+YdrhofuKUVa96h/r1Rz4nca6iW0yxSw/lquQq6fBlmMEDtkG0G
+Hc7HiUTRMVBkhFVgCAbAREWGJIk8BgYFQCMKFSQCIVfAlVsRt4PJaDhCC02LYezh
+NwlD/8OvWC4ACKBKeF6nKsAASwLCsqAiNpTIgoQMAHWFh5qgCIBCKks6hJoqySKv
+ARdHgBgCwEwu+ltOlTTKBJhHIErMK6/rPLOOIMQygapLjFA7iKsoYxMcs+wAd6mA
+Y1jM1KkbgLvHvzotZIzCaAVrDNmWY+lWJSuUO07I5/Y5NSGXWE01/x8Jv2YGCcuQ
+NcSoHTGtIOeDjKk7pqsJRR4pQEBAKODohZBpU7/pMiQkK4AddwyNuYkpGkKiBCER
+oaGwEBRDAggSBLACFERkIIsykHiMiaSJAs9IGq8TKlJV1LBhcO5S4aDF+WRmEweY
+ZMQMBLETtSl36XnfmWSPN82zMmWF+ws8aalr//4N7F/tueN9cv/xlJIy78lxxHjZ
++gr7SZ0d6T7bsmNiONYw/LOnbU0maL+d8bDu67uSsHIvD39733a452ZXZcms/+0i
+fzS+5YC04cbovDevSDvVfK+X9rZ0npxrUM6X3hyJH49Hd4cb5Ib8y0uHqhezM5P3
+FL0e/jSGSO7d281jaWuONf3I3jp1ZFof/SjUB6ovtqszmYOnt4/Edy3eMqvVrkHw
+PYGfJR3s7Vgo65vM+tw5OVR45cPLRCDRWtw6be2cmtk310LKUxuLsurehPq8/eOJ
+U083ppdukr5MpJa/aK5v6nS6w7OPxh9M9uzv2Jx/N33dqprgOXPp+rac2sZXV+cX
+fgGbeyat
+=R7rj
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/davorg
+
+==================================================================
