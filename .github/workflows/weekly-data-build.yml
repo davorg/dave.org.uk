@@ -21,7 +21,7 @@ concurrency:
 jobs:
   data_build:
     runs-on: ubuntu-latest
-    container: davorg/app-laststats:latest
+    container: davorg/laststats:latest
     env:
       LASTFM_API_KEY: ${{ secrets.LASTAPI_KEY }}
       LASTFM_API_SECRET: ${{ secrets.LASTAPI_SECRET }}
