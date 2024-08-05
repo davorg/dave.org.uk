@@ -35,6 +35,7 @@ jobs:
         run: echo `date` > docs/data/date.dat
       - name: Commit new page
         run: |
+          git config --global --add safe.directory /__w/dave.org.uk/dave.org.uk
           GIT_STATUS=$(git status --porcelain docs)
           echo $GIT_STATUS
           git config user.name github-actions[bot]
