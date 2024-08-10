@@ -53,6 +53,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Why oh why
+        run: git pull
       - name: Sanity check
         run:  cat docs/data/date.dat
       - name: Setup Pages
