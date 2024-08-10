@@ -54,7 +54,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Sanity check
-        run: ls -l docs/data
+        run:  cat docs/data/date.dat
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
