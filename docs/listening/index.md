@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 Stuff I've been listening to.
 
-<div id="tunes_here" />
+<div id="tunes_here"></div>
 
 <h2>Top Artists in the last week</h2>
 <div id="stats_here"></div>
