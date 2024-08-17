@@ -50,7 +50,7 @@ Several years ago I wrote something that scraped the BBC radio web site
 and created a directory of all of their “listen again” streams. These
 days, [the directory](https://dave.org.uk/streams/) is still there but it
 looks a bit moribund – and anyway the
-[BBC Sounds app](https://www.bbc.co.uk/sounds) does it far better.
+[BBC Sounds app](https://www.bbc.co.uk/sounds) does it all far better.
 
 ## Emacs
 
