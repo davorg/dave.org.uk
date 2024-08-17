@@ -12,6 +12,10 @@ timezone: Europe/London
 locale: "en-GB"
 repository: "davorg/dave.org.uk"
 
+author:
+  name: Dave Cross
+  home: https://davecross.co.uk/
+
 analytics:
   provider: "google-gtag"
   google:
