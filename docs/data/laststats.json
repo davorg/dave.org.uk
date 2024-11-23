@@ -1,1 +1,53 @@
-[{"count":"39","name":"Charli xcx","position":1},{"count":"27","name":"Barclay James Harvest","position":2},{"count":"20","name":"Genesis","position":3},{"count":"11","name":"Bob Dylan","position":4},{"count":"7","name":"Fleetwood Mac","position":5},{"count":"7","name":"Nick Drake","position":6},{"count":"6","name":"Fairport Convention","position":7},{"count":"6","name":"Say She She","position":8},{"count":"6","name":"The Last Dinner Party","position":9},{"count":"5","name":"Dog Race","position":10}]
+[
+   {
+      "count" : "46",
+      "name" : "The Cure",
+      "position" : 1
+   },
+   {
+      "count" : "40",
+      "name" : "Belle and Sebastian",
+      "position" : 2
+   },
+   {
+      "count" : "21",
+      "name" : "They Might Be Giants",
+      "position" : 3
+   },
+   {
+      "count" : "18",
+      "name" : "Chloe Slater",
+      "position" : 4
+   },
+   {
+      "count" : "18",
+      "name" : "The Last Dinner Party",
+      "position" : 5
+   },
+   {
+      "count" : "17",
+      "name" : "Bob Dylan",
+      "position" : 6
+   },
+   {
+      "count" : "14",
+      "name" : "Chappell Roan",
+      "position" : 7
+   },
+   {
+      "count" : "12",
+      "name" : "Yes",
+      "position" : 8
+   },
+   {
+      "count" : "7",
+      "name" : "Sunflower Bean",
+      "position" : 9
+   },
+   {
+      "count" : "7",
+      "name" : "The Jesus and Mary Chain",
+      "position" : 10
+   }
+]
+
