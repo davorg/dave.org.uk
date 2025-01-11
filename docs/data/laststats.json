@@ -1,52 +1,52 @@
 [
    {
-      "count" : "14",
-      "name" : "The Human League",
+      "count" : "45",
+      "name" : "Charli xcx",
       "position" : 1
    },
    {
-      "count" : "13",
-      "name" : "ABC",
+      "count" : "27",
+      "name" : "Hawkwind",
       "position" : 2
    },
    {
-      "count" : "12",
-      "name" : "The Smiths",
+      "count" : "22",
+      "name" : "John Grant",
       "position" : 3
    },
    {
-      "count" : "11",
-      "name" : "CHVRCHES",
+      "count" : "17",
+      "name" : "Leonard Cohen",
       "position" : 4
    },
    {
-      "count" : "10",
-      "name" : "New Order",
+      "count" : "15",
+      "name" : "The Waterboys",
       "position" : 5
    },
    {
-      "count" : "8",
-      "name" : "Siouxsie and the Banshees",
+      "count" : "13",
+      "name" : "Genesis",
       "position" : 6
    },
    {
-      "count" : "7",
-      "name" : "Chappell Roan",
+      "count" : "13",
+      "name" : "R.E.M.",
       "position" : 7
    },
    {
-      "count" : "7",
-      "name" : "David Bowie",
+      "count" : "12",
+      "name" : "PJ Harvey",
       "position" : 8
    },
    {
-      "count" : "7",
-      "name" : "The Last Dinner Party",
+      "count" : "10",
+      "name" : "The Lightning Seeds",
       "position" : 9
    },
    {
-      "count" : "6",
-      "name" : "Chloe Slater",
+      "count" : "9",
+      "name" : "Love and Rockets",
       "position" : 10
    }
 ]
