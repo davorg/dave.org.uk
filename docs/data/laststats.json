@@ -1,52 +1,52 @@
 [
    {
-      "count" : "45",
-      "name" : "Charli xcx",
+      "count" : "66",
+      "name" : "David Bowie",
       "position" : 1
    },
    {
-      "count" : "27",
-      "name" : "Hawkwind",
+      "count" : "20",
+      "name" : "Eurythmics",
       "position" : 2
    },
    {
-      "count" : "22",
-      "name" : "John Grant",
-      "position" : 3
-   },
-   {
-      "count" : "17",
-      "name" : "Leonard Cohen",
-      "position" : 4
-   },
-   {
       "count" : "15",
-      "name" : "The Waterboys",
-      "position" : 5
-   },
-   {
-      "count" : "13",
-      "name" : "Genesis",
-      "position" : 6
-   },
-   {
-      "count" : "13",
-      "name" : "R.E.M.",
-      "position" : 7
+      "name" : "Chloe Qisha",
+      "position" : 3
    },
    {
       "count" : "12",
       "name" : "PJ Harvey",
+      "position" : 4
+   },
+   {
+      "count" : "12",
+      "name" : "The KLF",
+      "position" : 5
+   },
+   {
+      "count" : "7",
+      "name" : "Chloe Slater",
+      "position" : 6
+   },
+   {
+      "count" : "7",
+      "name" : "The Human League",
+      "position" : 7
+   },
+   {
+      "count" : "4",
+      "name" : "Simple Minds",
       "position" : 8
    },
    {
-      "count" : "10",
-      "name" : "The Lightning Seeds",
+      "count" : "4",
+      "name" : "Sinéad O'Connor",
       "position" : 9
    },
    {
-      "count" : "9",
-      "name" : "Love and Rockets",
+      "count" : "3",
+      "name" : "Blancmange",
       "position" : 10
    }
 ]
