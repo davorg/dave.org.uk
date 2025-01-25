@@ -1,52 +1,52 @@
 [
    {
-      "count" : "66",
-      "name" : "David Bowie",
+      "count" : "21",
+      "name" : "Jefferson Airplane",
       "position" : 1
    },
    {
-      "count" : "20",
-      "name" : "Eurythmics",
+      "count" : "14",
+      "name" : "New Order",
       "position" : 2
    },
    {
-      "count" : "15",
-      "name" : "Chloe Qisha",
+      "count" : "11",
+      "name" : "Japan",
       "position" : 3
    },
    {
-      "count" : "12",
-      "name" : "PJ Harvey",
+      "count" : "7",
+      "name" : "Electric Light Orchestra",
       "position" : 4
    },
    {
-      "count" : "12",
-      "name" : "The KLF",
+      "count" : "6",
+      "name" : "George Harrison",
       "position" : 5
    },
    {
-      "count" : "7",
-      "name" : "Chloe Slater",
+      "count" : "5",
+      "name" : "Squeeze",
       "position" : 6
    },
    {
-      "count" : "7",
-      "name" : "The Human League",
+      "count" : "4",
+      "name" : "Roxy Music",
       "position" : 7
    },
    {
-      "count" : "4",
-      "name" : "Simple Minds",
+      "count" : "3",
+      "name" : "Genesis",
       "position" : 8
    },
    {
-      "count" : "4",
-      "name" : "Sinéad O'Connor",
+      "count" : "3",
+      "name" : "John Grant",
       "position" : 9
    },
    {
       "count" : "3",
-      "name" : "Blancmange",
+      "name" : "The Police",
       "position" : 10
    }
 ]
