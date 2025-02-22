@@ -1,52 +1,52 @@
 [
    {
-      "count" : "49",
-      "name" : "Beth Orton",
+      "count" : "53",
+      "name" : "The Smiths",
       "position" : 1
    },
    {
-      "count" : "37",
-      "name" : "Saint Etienne",
+      "count" : "25",
+      "name" : "Paramore",
       "position" : 2
    },
    {
-      "count" : "29",
-      "name" : "Public Service Broadcasting",
+      "count" : "19",
+      "name" : "Sunflower Bean",
       "position" : 3
    },
    {
-      "count" : "26",
-      "name" : "Sharon Van Etten",
+      "count" : "16",
+      "name" : "Chappell Roan",
       "position" : 4
    },
    {
-      "count" : "20",
-      "name" : "Ladytron",
+      "count" : "13",
+      "name" : "Daisy Jones & The Six",
       "position" : 5
    },
    {
-      "count" : "18",
-      "name" : "Nine Inch Nails",
+      "count" : "13",
+      "name" : "LCD Soundsystem",
       "position" : 6
    },
    {
-      "count" : "17",
-      "name" : "Arcade Fire",
+      "count" : "13",
+      "name" : "The Magnetic Fields",
       "position" : 7
    },
    {
-      "count" : "13",
-      "name" : "Stealing Sheep",
+      "count" : "12",
+      "name" : "Lauren Mayberry",
       "position" : 8
    },
    {
-      "count" : "9",
-      "name" : "LCD Soundsystem",
+      "count" : "10",
+      "name" : "Danielle Dax",
       "position" : 9
    },
    {
-      "count" : "4",
-      "name" : "The War on Drugs",
+      "count" : "7",
+      "name" : "Suki Waterhouse",
       "position" : 10
    }
 ]
