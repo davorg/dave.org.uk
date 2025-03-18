@@ -24,11 +24,11 @@ analytics:
 atom_feed:
   hide: true
 
+after_footer_scripts:
+  - /assets/js/ga4-404.js
+
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/davorg"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/davorg"
