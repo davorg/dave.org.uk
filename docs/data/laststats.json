@@ -1,52 +1,52 @@
 [
    {
-      "count" : "40",
-      "name" : "The Human League",
+      "count" : "55",
+      "name" : "Tunng",
       "position" : 1
    },
    {
-      "count" : "28",
-      "name" : "Eliza Carthy",
+      "count" : "54",
+      "name" : "Saint Etienne",
       "position" : 2
    },
    {
-      "count" : "27",
-      "name" : "Pink Floyd",
+      "count" : "34",
+      "name" : "David Bowie",
       "position" : 3
    },
    {
-      "count" : "27",
-      "name" : "The WAEVE",
+      "count" : "26",
+      "name" : "Lauren Mayberry",
       "position" : 4
    },
    {
       "count" : "24",
-      "name" : "Olivia Rodrigo",
+      "name" : "Deep Forest",
       "position" : 5
    },
    {
-      "count" : "19",
-      "name" : "John Grant",
+      "count" : "23",
+      "name" : "Radiohead",
       "position" : 6
    },
    {
-      "count" : "16",
-      "name" : "Chappell Roan",
+      "count" : "22",
+      "name" : "Yes",
       "position" : 7
    },
    {
-      "count" : "15",
-      "name" : "Tunng",
+      "count" : "16",
+      "name" : "PJ Harvey",
       "position" : 8
    },
    {
-      "count" : "11",
-      "name" : "Taylor Swift",
+      "count" : "13",
+      "name" : "Kate Bush",
       "position" : 9
    },
    {
-      "count" : "10",
-      "name" : "ABC",
+      "count" : "11",
+      "name" : "Chappell Roan",
       "position" : 10
    }
 ]
