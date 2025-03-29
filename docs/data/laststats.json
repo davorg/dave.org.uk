@@ -1,52 +1,52 @@
 [
    {
-      "count" : "55",
-      "name" : "Tunng",
+      "count" : "56",
+      "name" : "LCD Soundsystem",
       "position" : 1
    },
    {
-      "count" : "54",
-      "name" : "Saint Etienne",
+      "count" : "56",
+      "name" : "Placebo",
       "position" : 2
    },
    {
-      "count" : "34",
-      "name" : "David Bowie",
+      "count" : "51",
+      "name" : "Leonard Cohen",
       "position" : 3
    },
    {
-      "count" : "26",
-      "name" : "Lauren Mayberry",
+      "count" : "32",
+      "name" : "Lola Young",
       "position" : 4
    },
    {
       "count" : "24",
-      "name" : "Deep Forest",
+      "name" : "Billy Bragg",
       "position" : 5
    },
    {
-      "count" : "23",
-      "name" : "Radiohead",
+      "count" : "20",
+      "name" : "Saint Etienne",
       "position" : 6
    },
    {
-      "count" : "22",
-      "name" : "Yes",
+      "count" : "17",
+      "name" : "John Cooper Clarke",
       "position" : 7
    },
    {
-      "count" : "16",
-      "name" : "PJ Harvey",
+      "count" : "14",
+      "name" : "Pulp",
       "position" : 8
    },
    {
       "count" : "13",
-      "name" : "Kate Bush",
+      "name" : "CHVRCHES",
       "position" : 9
    },
    {
-      "count" : "11",
-      "name" : "Chappell Roan",
+      "count" : "13",
+      "name" : "Lauren Mayberry",
       "position" : 10
    }
 ]
