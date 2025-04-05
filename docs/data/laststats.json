@@ -1,52 +1,52 @@
 [
    {
-      "count" : "56",
-      "name" : "LCD Soundsystem",
+      "count" : "32",
+      "name" : "The Lovin' Spoonful",
       "position" : 1
    },
    {
-      "count" : "56",
-      "name" : "Placebo",
+      "count" : "27",
+      "name" : "Yes",
       "position" : 2
    },
    {
-      "count" : "51",
-      "name" : "Leonard Cohen",
+      "count" : "21",
+      "name" : "Kate Bush",
       "position" : 3
    },
    {
-      "count" : "32",
-      "name" : "Lola Young",
+      "count" : "20",
+      "name" : "They Might Be Giants",
       "position" : 4
    },
    {
-      "count" : "24",
-      "name" : "Billy Bragg",
+      "count" : "18",
+      "name" : "CHVRCHES",
       "position" : 5
    },
    {
-      "count" : "20",
-      "name" : "Saint Etienne",
+      "count" : "16",
+      "name" : "Pink Floyd",
       "position" : 6
    },
    {
-      "count" : "17",
-      "name" : "John Cooper Clarke",
+      "count" : "16",
+      "name" : "The Beatles",
       "position" : 7
    },
    {
       "count" : "14",
-      "name" : "Pulp",
+      "name" : "Caroline Polachek",
       "position" : 8
    },
    {
-      "count" : "13",
-      "name" : "CHVRCHES",
+      "count" : "14",
+      "name" : "John Grant",
       "position" : 9
    },
    {
       "count" : "13",
-      "name" : "Lauren Mayberry",
+      "name" : "Gary Numan",
       "position" : 10
    }
 ]
