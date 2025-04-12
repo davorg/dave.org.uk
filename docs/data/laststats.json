@@ -1,52 +1,52 @@
 [
    {
-      "count" : "32",
-      "name" : "The Lovin' Spoonful",
+      "count" : "73",
+      "name" : "The Beautiful South",
       "position" : 1
    },
    {
-      "count" : "27",
-      "name" : "Yes",
+      "count" : "55",
+      "name" : "Arcade Fire",
       "position" : 2
    },
    {
-      "count" : "21",
-      "name" : "Kate Bush",
+      "count" : "48",
+      "name" : "David Bowie",
       "position" : 3
    },
    {
-      "count" : "20",
-      "name" : "They Might Be Giants",
+      "count" : "47",
+      "name" : "BLACKPINK",
       "position" : 4
    },
    {
-      "count" : "18",
-      "name" : "CHVRCHES",
+      "count" : "22",
+      "name" : "Genesis",
       "position" : 5
    },
    {
-      "count" : "16",
-      "name" : "Pink Floyd",
+      "count" : "22",
+      "name" : "Supertramp",
       "position" : 6
    },
    {
-      "count" : "16",
-      "name" : "The Beatles",
+      "count" : "19",
+      "name" : "Taylor Swift",
       "position" : 7
    },
    {
-      "count" : "14",
-      "name" : "Caroline Polachek",
+      "count" : "18",
+      "name" : "Stealing Sheep",
       "position" : 8
    },
    {
-      "count" : "14",
-      "name" : "John Grant",
+      "count" : "13",
+      "name" : "Wet Leg",
       "position" : 9
    },
    {
-      "count" : "13",
-      "name" : "Gary Numan",
+      "count" : "12",
+      "name" : "Lexi Jones",
       "position" : 10
    }
 ]
