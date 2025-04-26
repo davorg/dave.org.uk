@@ -1,52 +1,52 @@
 [
    {
-      "count" : "39",
-      "name" : "Barclay James Harvest",
+      "count" : "44",
+      "name" : "R.E.M.",
       "position" : 1
    },
    {
-      "count" : "26",
-      "name" : "Stealing Sheep",
+      "count" : "33",
+      "name" : "David Bowie",
       "position" : 2
    },
    {
-      "count" : "21",
-      "name" : "Marillion",
+      "count" : "31",
+      "name" : "Lorde",
       "position" : 3
    },
    {
       "count" : "18",
-      "name" : "John Cooper Clarke",
+      "name" : "Pink Floyd",
       "position" : 4
    },
    {
-      "count" : "13",
-      "name" : "Sunflower Bean",
+      "count" : "12",
+      "name" : "Lexi Jones",
       "position" : 5
    },
    {
       "count" : "12",
-      "name" : "Saint Etienne",
+      "name" : "Mike Oldfield",
       "position" : 6
    },
    {
-      "count" : "11",
-      "name" : "David Bowie",
+      "count" : "12",
+      "name" : "Taylor Swift",
       "position" : 7
    },
    {
-      "count" : "10",
-      "name" : "Styx",
+      "count" : "11",
+      "name" : "Wolf Alice",
       "position" : 8
    },
    {
-      "count" : "7",
-      "name" : "ABC",
+      "count" : "10",
+      "name" : "The Cure",
       "position" : 9
    },
    {
-      "count" : "5",
-      "name" : "Doves",
+      "count" : "9",
+      "name" : "Chappell Roan",
       "position" : 10
    }
 ]
