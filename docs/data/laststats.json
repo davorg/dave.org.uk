@@ -1,52 +1,52 @@
 [
    {
-      "count" : "44",
-      "name" : "R.E.M.",
+      "count" : "41",
+      "name" : "Arcade Fire",
       "position" : 1
    },
    {
-      "count" : "33",
-      "name" : "David Bowie",
+      "count" : "32",
+      "name" : "HAIM",
       "position" : 2
    },
    {
-      "count" : "31",
-      "name" : "Lorde",
+      "count" : "25",
+      "name" : "Pulp",
       "position" : 3
    },
    {
-      "count" : "18",
-      "name" : "Pink Floyd",
+      "count" : "23",
+      "name" : "Rod Stewart",
       "position" : 4
    },
    {
-      "count" : "12",
-      "name" : "Lexi Jones",
+      "count" : "21",
+      "name" : "Prince",
       "position" : 5
    },
    {
-      "count" : "12",
-      "name" : "Mike Oldfield",
+      "count" : "13",
+      "name" : "Saint Etienne",
       "position" : 6
    },
    {
-      "count" : "12",
-      "name" : "Taylor Swift",
+      "count" : "11",
+      "name" : "Belle and Sebastian",
       "position" : 7
    },
    {
       "count" : "11",
-      "name" : "Wolf Alice",
+      "name" : "Doves",
       "position" : 8
    },
    {
-      "count" : "10",
-      "name" : "The Cure",
+      "count" : "11",
+      "name" : "LCD Soundsystem",
       "position" : 9
    },
    {
-      "count" : "9",
-      "name" : "Chappell Roan",
+      "count" : "10",
+      "name" : "Sunflower Bean",
       "position" : 10
    }
 ]
