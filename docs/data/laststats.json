@@ -1,52 +1,52 @@
 [
    {
-      "count" : "42",
-      "name" : "Lorde",
+      "count" : "70",
+      "name" : "Nilüfer Yanya",
       "position" : 1
    },
    {
-      "count" : "28",
-      "name" : "Björk",
+      "count" : "37",
+      "name" : "Suede",
       "position" : 2
    },
    {
-      "count" : "15",
-      "name" : "The New Eves",
+      "count" : "19",
+      "name" : "Tom Basden",
       "position" : 3
    },
    {
-      "count" : "14",
-      "name" : "Arcade Fire",
+      "count" : "13",
+      "name" : "Clairo",
       "position" : 4
    },
    {
-      "count" : "14",
-      "name" : "St. Vincent",
+      "count" : "13",
+      "name" : "Wolf Alice",
       "position" : 5
    },
    {
-      "count" : "13",
-      "name" : "Belle and Sebastian",
+      "count" : "8",
+      "name" : "Chloe Slater",
       "position" : 6
    },
    {
-      "count" : "13",
-      "name" : "PJ Harvey",
+      "count" : "5",
+      "name" : "Fontaines D.C.",
       "position" : 7
    },
    {
-      "count" : "13",
-      "name" : "Sharon Van Etten",
+      "count" : "5",
+      "name" : "Slow Leaves",
       "position" : 8
    },
    {
-      "count" : "12",
-      "name" : "Wolf Alice",
+      "count" : "4",
+      "name" : "English Teacher",
       "position" : 9
    },
    {
-      "count" : "9",
-      "name" : "Taylor Swift",
+      "count" : "4",
+      "name" : "LCD Soundsystem",
       "position" : 10
    }
 ]
