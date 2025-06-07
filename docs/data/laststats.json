@@ -1,52 +1,52 @@
 [
    {
-      "count" : "104",
-      "name" : "Hawkwind",
+      "count" : "41",
+      "name" : "Eurythmics",
       "position" : 1
    },
    {
-      "count" : "17",
-      "name" : "Wolf Alice",
+      "count" : "36",
+      "name" : "SpaceAcre",
       "position" : 2
    },
    {
-      "count" : "13",
-      "name" : "Belle and Sebastian",
+      "count" : "28",
+      "name" : "Aztec Camera",
       "position" : 3
    },
    {
-      "count" : "13",
-      "name" : "Leftfield",
+      "count" : "17",
+      "name" : "Pulp",
       "position" : 4
    },
    {
-      "count" : "12",
-      "name" : "Pulp",
+      "count" : "11",
+      "name" : "Chappell Roan",
       "position" : 5
    },
    {
-      "count" : "11",
-      "name" : "Doves",
+      "count" : "7",
+      "name" : "Charli xcx",
       "position" : 6
    },
    {
-      "count" : "9",
-      "name" : "Hawklords",
+      "count" : "7",
+      "name" : "LCD Soundsystem",
       "position" : 7
    },
    {
-      "count" : "7",
-      "name" : "Saint Etienne",
+      "count" : "6",
+      "name" : "Bess Atwell",
       "position" : 8
    },
    {
-      "count" : "7",
-      "name" : "Suede",
+      "count" : "6",
+      "name" : "Doves",
       "position" : 9
    },
    {
       "count" : "6",
-      "name" : "Yeah Yeah Yeahs",
+      "name" : "HAIM",
       "position" : 10
    }
 ]
