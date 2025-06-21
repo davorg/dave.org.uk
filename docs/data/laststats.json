@@ -1,52 +1,52 @@
 [
    {
-      "count" : "64",
-      "name" : "The Beach Boys",
+      "count" : "48",
+      "name" : "LCD Soundsystem",
       "position" : 1
    },
    {
-      "count" : "44",
-      "name" : "Anaïs Mitchell",
+      "count" : "35",
+      "name" : "Lola Young",
       "position" : 2
    },
    {
-      "count" : "39",
-      "name" : "Ani DiFranco",
+      "count" : "17",
+      "name" : "Wolf Alice",
       "position" : 3
    },
    {
-      "count" : "34",
-      "name" : "Genesis",
+      "count" : "16",
+      "name" : "Chappell Roan",
       "position" : 4
    },
    {
-      "count" : "25",
-      "name" : "Doves",
+      "count" : "13",
+      "name" : "Taylor Swift",
       "position" : 5
    },
    {
-      "count" : "16",
-      "name" : "The New Eves",
+      "count" : "11",
+      "name" : "Nick Drake",
       "position" : 6
    },
    {
-      "count" : "10",
-      "name" : "St. Vincent",
+      "count" : "11",
+      "name" : "Olivia Rodrigo",
       "position" : 7
    },
    {
       "count" : "10",
-      "name" : "Sunday (1994)",
+      "name" : "Ani DiFranco",
       "position" : 8
    },
    {
-      "count" : "8",
-      "name" : "Arcade Fire",
+      "count" : "9",
+      "name" : "Lorde",
       "position" : 9
    },
    {
-      "count" : "8",
-      "name" : "LCD Soundsystem",
+      "count" : "7",
+      "name" : "Belle and Sebastian",
       "position" : 10
    }
 ]
