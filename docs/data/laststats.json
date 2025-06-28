@@ -1,52 +1,52 @@
 [
    {
-      "count" : "48",
-      "name" : "LCD Soundsystem",
+      "count" : "25",
+      "name" : "Lola Young",
       "position" : 1
    },
    {
-      "count" : "35",
-      "name" : "Lola Young",
+      "count" : "21",
+      "name" : "Lorde",
       "position" : 2
    },
    {
-      "count" : "17",
-      "name" : "Wolf Alice",
+      "count" : "8",
+      "name" : "Chappell Roan",
       "position" : 3
    },
    {
-      "count" : "16",
-      "name" : "Chappell Roan",
+      "count" : "6",
+      "name" : "David Essex",
       "position" : 4
    },
    {
-      "count" : "13",
-      "name" : "Taylor Swift",
+      "count" : "5",
+      "name" : "LCD Soundsystem",
       "position" : 5
    },
    {
-      "count" : "11",
-      "name" : "Nick Drake",
+      "count" : "4",
+      "name" : "Elaine Paige",
       "position" : 6
    },
    {
-      "count" : "11",
-      "name" : "Olivia Rodrigo",
+      "count" : "4",
+      "name" : "HAIM",
       "position" : 7
    },
    {
-      "count" : "10",
-      "name" : "Ani DiFranco",
+      "count" : "4",
+      "name" : "The Last Dinner Party",
       "position" : 8
    },
    {
-      "count" : "9",
-      "name" : "Lorde",
+      "count" : "4",
+      "name" : "Wet Leg",
       "position" : 9
    },
    {
-      "count" : "7",
-      "name" : "Belle and Sebastian",
+      "count" : "4",
+      "name" : "Wolf Alice",
       "position" : 10
    }
 ]
