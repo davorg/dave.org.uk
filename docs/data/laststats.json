@@ -1,52 +1,52 @@
 [
    {
-      "count" : "46",
-      "name" : "Taylor Swift",
+      "count" : "39",
+      "name" : "Sofia Isella",
       "position" : 1
    },
    {
-      "count" : "36",
-      "name" : "The Killers",
+      "count" : "17",
+      "name" : "LCD Soundsystem",
       "position" : 2
    },
    {
-      "count" : "26",
-      "name" : "Chloe Slater",
+      "count" : "16",
+      "name" : "Doves",
       "position" : 3
    },
    {
-      "count" : "23",
-      "name" : "David Bowie",
+      "count" : "12",
+      "name" : "Elbow",
       "position" : 4
    },
    {
-      "count" : "13",
-      "name" : "Lorde",
+      "count" : "12",
+      "name" : "Lola Young",
       "position" : 5
    },
    {
-      "count" : "13",
-      "name" : "Self Esteem",
+      "count" : "12",
+      "name" : "Pulp",
       "position" : 6
    },
    {
-      "count" : "13",
-      "name" : "The Beta Band",
+      "count" : "9",
+      "name" : "Nick Drake",
       "position" : 7
    },
    {
-      "count" : "9",
-      "name" : "Black Sabbath",
+      "count" : "8",
+      "name" : "Arcade Fire",
       "position" : 8
    },
    {
-      "count" : "3",
-      "name" : "Billy Bragg",
+      "count" : "8",
+      "name" : "Mumford & Sons",
       "position" : 9
    },
    {
-      "count" : "3",
-      "name" : "Charli xcx",
+      "count" : "8",
+      "name" : "Self Esteem",
       "position" : 10
    }
 ]
