@@ -1,52 +1,52 @@
 [
    {
-      "count" : "49",
-      "name" : "David Bowie",
+      "count" : "50",
+      "name" : "Taylor Swift",
       "position" : 1
    },
    {
-      "count" : "41",
-      "name" : "Oneira",
+      "count" : "30",
+      "name" : "Sofia Isella",
       "position" : 2
    },
    {
-      "count" : "35",
-      "name" : "Belle and Sebastian",
+      "count" : "29",
+      "name" : "Matilda Mann",
       "position" : 3
    },
    {
-      "count" : "35",
-      "name" : "Placebo",
+      "count" : "19",
+      "name" : "Stereolab",
       "position" : 4
    },
    {
-      "count" : "29",
-      "name" : "Wolf Alice",
+      "count" : "17",
+      "name" : "Neil Young",
       "position" : 5
    },
    {
-      "count" : "24",
-      "name" : "Sofia Isella",
+      "count" : "15",
+      "name" : "The Beta Band",
       "position" : 6
    },
    {
-      "count" : "18",
-      "name" : "Sinéad O'Connor",
+      "count" : "14",
+      "name" : "LCD Soundsystem",
       "position" : 7
    },
    {
-      "count" : "12",
-      "name" : "Superorganism",
+      "count" : "9",
+      "name" : "Chappell Roan",
       "position" : 8
    },
    {
-      "count" : "11",
-      "name" : "The Last Dinner Party",
+      "count" : "9",
+      "name" : "Lola Young",
       "position" : 9
    },
    {
-      "count" : "10",
-      "name" : "Doves",
+      "count" : "9",
+      "name" : "Yes",
       "position" : 10
    }
 ]
