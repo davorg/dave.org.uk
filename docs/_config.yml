@@ -15,6 +15,7 @@ repository: "davorg/dave.org.uk"
 author:
   name: Dave Cross
   home: https://davecross.co.uk/
+  avatar: /assets/images/dave-avatar.png
 
 analytics:
   provider: "google-gtag"
