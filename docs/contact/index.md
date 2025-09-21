@@ -19,7 +19,10 @@ below.
 
 ## Social Media
 
-* **Twitter:**	[@davorg](https://twitter.com/davorg)
+* **Bluesky** [davorg](https://bsky.app/profile/davorg.davecross.co.uk)
+* **Threads:** [davorg](https://www.threads.com/@davorg)
+* **Mastodon:**	[davorg](https://fosstodon.org/@davorg)
+* **GitHub**: [davorg](https://github.com/davorg)
 * **Facebook:**	[davorg](https://www.facebook.com/davorg/)
 * **LinkedIn:** [davorg](https://www.linkedin.com/in/davorg/)
 
