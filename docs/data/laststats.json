@@ -1,52 +1,52 @@
 [
    {
-      "count" : "59",
-      "name" : "David Bowie",
+      "count" : "30",
+      "name" : "Maisie Peters",
       "position" : 1
    },
    {
-      "count" : "56",
-      "name" : "Genesis",
+      "count" : "28",
+      "name" : "The Beta Band",
       "position" : 2
    },
    {
-      "count" : "55",
-      "name" : "Taylor Swift",
+      "count" : "17",
+      "name" : "Oneirina",
       "position" : 3
    },
    {
-      "count" : "24",
-      "name" : "Client",
+      "count" : "15",
+      "name" : "Lal Waterson",
       "position" : 4
    },
    {
-      "count" : "23",
-      "name" : "Public Service Broadcasting",
+      "count" : "15",
+      "name" : "Taylor Swift",
       "position" : 5
    },
    {
-      "count" : "22",
-      "name" : "Buffy the Vampire Slayer Cast",
+      "count" : "11",
+      "name" : "The Imagined Village",
       "position" : 6
    },
    {
-      "count" : "17",
-      "name" : "Lola Young",
+      "count" : "6",
+      "name" : "Eliza Carthy",
       "position" : 7
    },
    {
-      "count" : "16",
-      "name" : "Beth Orton",
+      "count" : "6",
+      "name" : "The New Eves",
       "position" : 8
    },
    {
-      "count" : "16",
-      "name" : "Oneirina",
+      "count" : "4",
+      "name" : "RUBY ROBERTS",
       "position" : 9
    },
    {
-      "count" : "15",
-      "name" : "Lorde",
+      "count" : "3",
+      "name" : "Anne Briggs",
       "position" : 10
    }
 ]
