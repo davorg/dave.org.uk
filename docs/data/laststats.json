@@ -25,28 +25,28 @@
       "position" : 5
    },
    {
-      "count" : "11",
-      "name" : "The Imagined Village",
+      "count" : "6",
+      "name" : "Eliza Carthy",
       "position" : 6
    },
    {
       "count" : "6",
-      "name" : "Eliza Carthy",
-      "position" : 7
-   },
-   {
-      "count" : "6",
       "name" : "The New Eves",
-      "position" : 8
+      "position" : 7
    },
    {
       "count" : "4",
       "name" : "RUBY ROBERTS",
-      "position" : 9
+      "position" : 8
    },
    {
       "count" : "3",
       "name" : "Anne Briggs",
+      "position" : 9
+   },
+   {
+      "count" : "3",
+      "name" : "Lilith Max",
       "position" : 10
    }
 ]
