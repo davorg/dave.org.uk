@@ -54,7 +54,7 @@ looks a bit moribund – and anyway the
 
 ## Emacs
 
-* An [emacs mode](https://dave.org.uk/emacs/) for the Template Toolkit
+* An [emacs mode](https://github.com/davorg/tt-mode) for the Template Toolkit
 
 ## Github
 
