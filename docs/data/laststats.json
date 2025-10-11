@@ -1,52 +1,52 @@
 [
    {
-      "count" : "30",
-      "name" : "Maisie Peters",
+      "count" : "24",
+      "name" : "The Beta Band",
       "position" : 1
    },
    {
-      "count" : "28",
-      "name" : "The Beta Band",
+      "count" : "23",
+      "name" : "Doves",
       "position" : 2
+   },
+   {
+      "count" : "19",
+      "name" : "Taylor Swift",
+      "position" : 3
    },
    {
       "count" : "17",
       "name" : "Oneirina",
-      "position" : 3
-   },
-   {
-      "count" : "15",
-      "name" : "Lal Waterson",
       "position" : 4
    },
    {
-      "count" : "15",
-      "name" : "Taylor Swift",
+      "count" : "16",
+      "name" : "Kraftwerk",
       "position" : 5
    },
    {
-      "count" : "6",
-      "name" : "Eliza Carthy",
+      "count" : "16",
+      "name" : "Madder Rose",
       "position" : 6
    },
    {
-      "count" : "6",
-      "name" : "The New Eves",
+      "count" : "15",
+      "name" : "BC Camplight",
       "position" : 7
    },
    {
-      "count" : "4",
-      "name" : "RUBY ROBERTS",
+      "count" : "13",
+      "name" : "Charlotte Church",
       "position" : 8
    },
    {
-      "count" : "3",
-      "name" : "Anne Briggs",
+      "count" : "10",
+      "name" : "Public Service Broadcasting",
       "position" : 9
    },
    {
-      "count" : "3",
-      "name" : "Lilith Max",
+      "count" : "8",
+      "name" : "4hero",
       "position" : 10
    }
 ]
