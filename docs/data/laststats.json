@@ -1,52 +1,52 @@
 [
    {
-      "count" : "24",
-      "name" : "The Beta Band",
+      "count" : "68",
+      "name" : "David Bowie",
       "position" : 1
    },
    {
-      "count" : "23",
-      "name" : "Doves",
+      "count" : "30",
+      "name" : "Chloe Slater",
       "position" : 2
    },
    {
-      "count" : "19",
-      "name" : "Taylor Swift",
+      "count" : "23",
+      "name" : "Lorde",
       "position" : 3
    },
    {
-      "count" : "17",
+      "count" : "21",
       "name" : "Oneirina",
       "position" : 4
    },
    {
-      "count" : "16",
-      "name" : "Kraftwerk",
+      "count" : "15",
+      "name" : "The Beta Band",
       "position" : 5
    },
    {
-      "count" : "16",
-      "name" : "Madder Rose",
+      "count" : "15",
+      "name" : "The Last Dinner Party",
       "position" : 6
    },
    {
-      "count" : "15",
-      "name" : "BC Camplight",
+      "count" : "13",
+      "name" : "Roxy Music",
       "position" : 7
    },
    {
-      "count" : "13",
-      "name" : "Charlotte Church",
+      "count" : "12",
+      "name" : "Kate Bush",
       "position" : 8
    },
    {
-      "count" : "10",
-      "name" : "Public Service Broadcasting",
+      "count" : "11",
+      "name" : "crysometimes",
       "position" : 9
    },
    {
-      "count" : "8",
-      "name" : "4hero",
+      "count" : "11",
+      "name" : "Stealing Sheep",
       "position" : 10
    }
 ]
