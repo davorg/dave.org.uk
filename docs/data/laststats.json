@@ -1,52 +1,52 @@
 [
    {
-      "count" : "68",
-      "name" : "David Bowie",
+      "count" : "49",
+      "name" : "Oneirina",
       "position" : 1
    },
    {
-      "count" : "30",
-      "name" : "Chloe Slater",
+      "count" : "19",
+      "name" : "Alanis Morissette",
       "position" : 2
    },
    {
-      "count" : "23",
-      "name" : "Lorde",
+      "count" : "18",
+      "name" : "Lily Allen",
       "position" : 3
    },
    {
-      "count" : "21",
-      "name" : "Oneirina",
+      "count" : "16",
+      "name" : "Lou Reed",
       "position" : 4
    },
    {
-      "count" : "15",
-      "name" : "The Beta Band",
+      "count" : "9",
+      "name" : "The Polyphonic Spree",
       "position" : 5
    },
    {
-      "count" : "15",
-      "name" : "The Last Dinner Party",
+      "count" : "7",
+      "name" : "Taylor Swift",
       "position" : 6
    },
    {
-      "count" : "13",
-      "name" : "Roxy Music",
+      "count" : "6",
+      "name" : "Sinéad O'Connor",
       "position" : 7
    },
    {
-      "count" : "12",
-      "name" : "Kate Bush",
+      "count" : "6",
+      "name" : "Tori Amos",
       "position" : 8
    },
    {
-      "count" : "11",
-      "name" : "crysometimes",
+      "count" : "5",
+      "name" : "PJ Harvey",
       "position" : 9
    },
    {
-      "count" : "11",
-      "name" : "Stealing Sheep",
+      "count" : "5",
+      "name" : "The Last Dinner Party",
       "position" : 10
    }
 ]
