@@ -30,7 +30,7 @@ jobs:
       contents: write
     steps:
       - name: Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
       - name: Generate LastFM stats
         run: laststats --format json > docs/data/laststats.json
       - name: Datestamp
@@ -52,7 +52,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
       - name: Why oh why
         run: git pull
       - name: Sanity check
