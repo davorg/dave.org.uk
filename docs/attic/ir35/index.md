@@ -3,6 +3,9 @@ layout: single
 title: IR35
 ---
 
+Note: I didn't write this. But if I knew who did, I'd be really happy to credit
+them.
+
 [With apologies to John Bird and John Fortune]
 
 **Interviewer:** So, Steven Crony, you are the newly appointed Minister for the Knowledge Based Economy. What exactly does that entail?
@@ -13,7 +16,7 @@ title: IR35
 
 **Crony:** Is it? How time flies!
 
-**Interviewer:Um, and you yourself have considerable experience in the Knowledge sector?
+**Interviewer:** Um, and you yourself have considerable experience in the Knowledge sector?
 
 **Crony:** Well yes, for many years I worked for ScrambledEggs.com. Until they suggested I …, er I mean, I decided to move into politics.
 
@@ -33,7 +36,7 @@ title: IR35
 
 **Crony:** Well, you don’t need many offices because the staff are all out working for clients …
 
-**Interviewer:… Computers …
+**Interviewer:** … Computers …
 
 **Crony:** Good God no, the clients have those. But its very expensive to run a company properly. Big board rooms, shiny oak tables, that kind of thing …
 
