@@ -1,7 +1,7 @@
 [
    {
-      "count" : "33",
-      "name" : "Fleetwood Mac",
+      "count" : "36",
+      "name" : "Taylor Swift",
       "position" : 1
    },
    {
@@ -10,42 +10,42 @@
       "position" : 2
    },
    {
-      "count" : "24",
+      "count" : "15",
       "name" : "Lily Allen",
       "position" : 3
    },
    {
-      "count" : "16",
-      "name" : "Beth Orton",
+      "count" : "9",
+      "name" : "Chappell Roan",
       "position" : 4
    },
    {
-      "count" : "14",
-      "name" : "Arcade Fire",
+      "count" : "6",
+      "name" : "Lorde",
       "position" : 5
    },
    {
-      "count" : "13",
-      "name" : "Wolf Alice",
+      "count" : "5",
+      "name" : "Chloe Slater",
       "position" : 6
    },
    {
-      "count" : "12",
-      "name" : "Strange Cargo",
+      "count" : "4",
+      "name" : "LCD Soundsystem",
       "position" : 7
    },
    {
-      "count" : "10",
-      "name" : "Kirsty MacColl",
+      "count" : "3",
+      "name" : "Belle and Sebastian",
       "position" : 8
    },
    {
-      "count" : "8",
-      "name" : "The Last Dinner Party",
+      "count" : "3",
+      "name" : "David Bowie",
       "position" : 9
    },
    {
-      "count" : "7",
+      "count" : "3",
       "name" : "Lola Young",
       "position" : 10
    }
