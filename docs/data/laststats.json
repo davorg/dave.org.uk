@@ -1,52 +1,52 @@
 [
    {
-      "count" : "40",
-      "name" : "LCD Soundsystem",
+      "count" : "62",
+      "name" : "David Bowie",
       "position" : 1
    },
    {
-      "count" : "23",
-      "name" : "Pink Floyd",
+      "count" : "20",
+      "name" : "Polk County Pagan Market",
       "position" : 2
    },
    {
-      "count" : "22",
-      "name" : "Michy Tree",
+      "count" : "18",
+      "name" : "ROSALÍA",
       "position" : 3
    },
    {
-      "count" : "14",
-      "name" : "New Order",
+      "count" : "16",
+      "name" : "LCD Soundsystem",
       "position" : 4
    },
    {
-      "count" : "10",
-      "name" : "Doves",
+      "count" : "14",
+      "name" : "Hayley Williams",
       "position" : 5
    },
    {
-      "count" : "9",
-      "name" : "Oneirina",
+      "count" : "14",
+      "name" : "Lily Allen",
       "position" : 6
    },
    {
-      "count" : "8",
-      "name" : "Pulp",
+      "count" : "14",
+      "name" : "Oneirina",
       "position" : 7
    },
    {
-      "count" : "8",
-      "name" : "Taylor Swift",
+      "count" : "11",
+      "name" : "Haus of Hekate",
       "position" : 8
    },
    {
-      "count" : "7",
-      "name" : "Elbow",
+      "count" : "9",
+      "name" : "PsychWitch",
       "position" : 9
    },
    {
-      "count" : "6",
-      "name" : "Lorde",
+      "count" : "8",
+      "name" : "MightyW Project",
       "position" : 10
    }
 ]
