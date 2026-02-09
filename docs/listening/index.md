@@ -19,7 +19,11 @@ document.addEventListener('DOMContentLoaded', function() {
       const listContainer = document.createElement('ul');
       data.forEach(item => {
         const listItem = document.createElement('li');
-        listItem.textContent = `${item.name} (${item.count} plays)`;
+        const link = document.createElement('a');
+        link.href = item.url;
+        link.textContent = item.name;
+        listItem.appendChild(link);
+        listItem.appendChild(document.createTextNode(` (${item.count} plays)`));
         listContainer.appendChild(listItem);
       });
       document.getElementById('stats_here').appendChild(listContainer);
