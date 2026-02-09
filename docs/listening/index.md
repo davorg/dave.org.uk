@@ -20,9 +20,14 @@ document.addEventListener('DOMContentLoaded', function() {
       data.forEach(item => {
         const listItem = document.createElement('li');
         const link = document.createElement('a');
-        link.href = item.url;
-        link.textContent = item.name;
-        listItem.appendChild(link);
+        // Validate URL before setting href
+        if (item.url && (item.url.startsWith('http://') || item.url.startsWith('https://'))) {
+          link.href = item.url;
+          link.textContent = item.name;
+          listItem.appendChild(link);
+        } else {
+          listItem.appendChild(document.createTextNode(item.name));
+        }
         listItem.appendChild(document.createTextNode(` (${item.count} plays)`));
         listContainer.appendChild(listItem);
       });
