@@ -19,7 +19,16 @@ document.addEventListener('DOMContentLoaded', function() {
       const listContainer = document.createElement('ul');
       data.forEach(item => {
         const listItem = document.createElement('li');
-        listItem.textContent = `${item.name} (${item.count} plays)`;
+        // Validate URL before setting href
+        if (item.url && (item.url.startsWith('http://') || item.url.startsWith('https://'))) {
+          const link = document.createElement('a');
+          link.href = item.url;
+          link.textContent = item.name;
+          listItem.appendChild(link);
+        } else {
+          listItem.appendChild(document.createTextNode(item.name));
+        }
+        listItem.appendChild(document.createTextNode(` (${item.count} plays)`));
         listContainer.appendChild(listItem);
       });
       document.getElementById('stats_here').appendChild(listContainer);
