@@ -19,9 +19,9 @@ document.addEventListener('DOMContentLoaded', function() {
       const listContainer = document.createElement('ul');
       data.forEach(item => {
         const listItem = document.createElement('li');
-        const link = document.createElement('a');
         // Validate URL before setting href
         if (item.url && (item.url.startsWith('http://') || item.url.startsWith('https://'))) {
+          const link = document.createElement('a');
           link.href = item.url;
           link.textContent = item.name;
           listItem.appendChild(link);
