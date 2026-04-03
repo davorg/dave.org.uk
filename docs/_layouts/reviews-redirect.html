@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    {% assign target = page.url | replace_first: '/reviews', '' | replace: '.html', '/' %}
+    {% if target == '' %}
+      {% assign target = '/' %}
+    {% endif %}
+    <meta http-equiv="refresh" content="0; url=https://reviews.davecross.co.uk{{ target }}">
+    <link rel="canonical" href="https://reviews.davecross.co.uk{{ target }}">
+    <title>Redirecting…</title>
+    <script>
+      window.location.replace("https://reviews.davecross.co.uk{{ target }}");
+    </script>
+  </head>
+  <body>
+    <p>
+      This page has moved to
+      <a href="https://reviews.davecross.co.uk{{ target }}">https://reviews.davecross.co.uk{{ target }}</a>.
+    </p>
+  </body>
+</html>

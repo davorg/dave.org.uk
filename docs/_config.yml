@@ -38,6 +38,11 @@ footer:
       url: "https://links.davecross.co.uk/"
 
 defaults:
+  - scope:
+      path: "reviews"
+      type: "pages"
+    values:
+      layout: "reviews-redirect"
   # _pages
   - scope:
       path: ""
