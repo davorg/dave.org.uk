@@ -2,6 +2,7 @@
 title: Emacs
 redirect_from:
   - /geekery/emacs
+  - /geekery/emacs/
 ---
 
 I've stopped using Emacs these days (seduced by VSCode, I'm afraid).
