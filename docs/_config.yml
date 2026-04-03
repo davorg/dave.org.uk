@@ -30,9 +30,9 @@ after_footer_scripts:
 
 footer:
   links:
-    - label: "GitHub"
+    - label: "Site code"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/davorg"
+      url: "https://github.com/davorg/dave.org.uk"
     - label: "Other links"
       url: "https://links.davecross.co.uk/"
 
