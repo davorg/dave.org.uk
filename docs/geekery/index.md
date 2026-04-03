@@ -1,6 +1,6 @@
---
+---
 title: Geekery
---
+---
 
 This is an old page that listed all my geeky projects. It's very out of
 date now. I've just resurrected it because I saw quite a few 404s for this
