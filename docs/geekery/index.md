@@ -71,10 +71,11 @@ my streams project is long dead. See [here](/streams/) for the full history.)
 
 ## News Feeds
 
-I built a directory of UK news feeds. It’s a bit out of date now, and many
-newspapers seem to change the address of their web feeds monthly, making the
-job far harder than it needs to be. And the Guardian now produces a ridiculous
-number of feeds – so I’m not sure if it’s worth keeping it up to date.
+I built a directory of [UK news feeds](/newsfeeds/). It’s a bit out of date
+now, and many newspapers seem to change the address of their web feeds monthly,
+making the job far harder than it needs to be. And the Guardian now produces
+a ridiculous number of feeds – so I’m not sure if it’s worth keeping it up to
+date.
 
 (Another dead project. Many news feeds still exist, but they're mostly an
 afterthought or a piece legacy technology that just hasn't been turned off
