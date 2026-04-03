@@ -10,3 +10,4 @@ These days, all of my code is on [GitHub](https://github.com/davorg/).
 In particular, the kinds of things that used to be on this page are now
 in a repo called [Dodgy Old Crap](https://github.com/davorg/dodgy-old-crap).
 
+One project that still lingers in geek consciousness is [nms](/nms/).
