@@ -17,7 +17,6 @@ concurrency:
 jobs:
   # Build job
   build:
-    needs: data_build
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
