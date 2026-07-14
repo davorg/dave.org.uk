@@ -5,6 +5,9 @@ title: Writin'
 <script src="https://cdn.davecross.co.uk/js/feed_widget.js"></script>
 <script>
 const FEEDS = [ {
+  url: `https://standup.co.uk/feed.xml`,
+  desc: 'StandUp.co.uk'
+}, {
   url: `https://dev.to/feed/davorg`,
   desc: 'dev.to'
 }, {
