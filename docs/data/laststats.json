@@ -1,63 +1,63 @@
 [
    {
-      "count" : "28",
-      "name" : "CHVRCHES",
-      "position" : 1,
-      "url" : "https://www.last.fm/music/CHVRCHES"
-   },
-   {
-      "count" : "24",
-      "name" : "The Magnetic North",
-      "position" : 2,
-      "url" : "https://www.last.fm/music/The+Magnetic+North"
-   },
-   {
-      "count" : "21",
-      "name" : "Hannah Peel",
-      "position" : 3,
-      "url" : "https://www.last.fm/music/Hannah+Peel"
-   },
-   {
-      "count" : "11",
-      "name" : "Wildwood Kin",
-      "position" : 4,
-      "url" : "https://www.last.fm/music/Wildwood+Kin"
-   },
-   {
-      "count" : "8",
-      "name" : "Strawbs",
-      "position" : 5,
-      "url" : "https://www.last.fm/music/Strawbs"
-   },
-   {
-      "count" : "7",
+      "count" : "60",
       "name" : "David Bowie",
-      "position" : 6,
+      "position" : 1,
       "url" : "https://www.last.fm/music/David+Bowie"
    },
    {
-      "count" : "6",
-      "name" : "Girl Group",
+      "count" : "15",
+      "name" : "LCD Soundsystem",
+      "position" : 2,
+      "url" : "https://www.last.fm/music/LCD+Soundsystem"
+   },
+   {
+      "count" : "14",
+      "name" : "Lorde",
+      "position" : 3,
+      "url" : "https://www.last.fm/music/Lorde"
+   },
+   {
+      "count" : "12",
+      "name" : "Yazoo",
+      "position" : 4,
+      "url" : "https://www.last.fm/music/Yazoo"
+   },
+   {
+      "count" : "11",
+      "name" : "George Michael",
+      "position" : 5,
+      "url" : "https://www.last.fm/music/George+Michael"
+   },
+   {
+      "count" : "11",
+      "name" : "Oneirina",
+      "position" : 6,
+      "url" : "https://www.last.fm/music/Oneirina"
+   },
+   {
+      "count" : "10",
+      "name" : "Lana Del Rey",
       "position" : 7,
-      "url" : "https://www.last.fm/music/Girl+Group"
+      "url" : "https://www.last.fm/music/Lana+Del+Rey"
    },
    {
-      "count" : "6",
-      "name" : "Pink Floyd",
+      "count" : "8",
+      "name" : "Taylor Swift",
       "position" : 8,
-      "url" : "https://www.last.fm/music/Pink+Floyd"
+      "url" : "https://www.last.fm/music/Taylor+Swift"
    },
    {
-      "count" : "4",
-      "name" : "Agnes Obel",
+      "count" : "8",
+      "name" : "Wolf Alice",
       "position" : 9,
-      "url" : "https://www.last.fm/music/Agnes+Obel"
+      "url" : "https://www.last.fm/music/Wolf+Alice"
    },
    {
-      "count" : "4",
-      "name" : "Grimes",
+      "count" : "7",
+      "name" : "Chappell Roan",
       "position" : 10,
-      "url" : "https://www.last.fm/music/Grimes"
+      "url" : "https://www.last.fm/music/Chappell+Roan"
    }
 ]
 
