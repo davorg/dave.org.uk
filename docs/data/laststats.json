@@ -2,62 +2,52 @@
    {
       "count" : "51",
       "name" : "Charli xcx",
-      "position" : 1,
-      "url" : "https://www.last.fm/music/Charli+xcx"
+      "position" : 1
    },
    {
       "count" : "26",
       "name" : "Lola Young",
-      "position" : 2,
-      "url" : "https://www.last.fm/music/Lola+Young"
+      "position" : 2
    },
    {
       "count" : "19",
       "name" : "Eurythmics",
-      "position" : 3,
-      "url" : "https://www.last.fm/music/Eurythmics"
+      "position" : 3
    },
    {
       "count" : "13",
       "name" : "Eliza Carthy",
-      "position" : 4,
-      "url" : "https://www.last.fm/music/Eliza+Carthy"
+      "position" : 4
    },
    {
       "count" : "12",
       "name" : "CHVRCHES",
-      "position" : 5,
-      "url" : "https://www.last.fm/music/CHVRCHES"
+      "position" : 5
    },
    {
       "count" : "12",
       "name" : "Oneirina",
-      "position" : 6,
-      "url" : "https://www.last.fm/music/Oneirina"
+      "position" : 6
    },
    {
       "count" : "10",
       "name" : "The Housemartins",
-      "position" : 7,
-      "url" : "https://www.last.fm/music/The+Housemartins"
+      "position" : 7
    },
    {
       "count" : "9",
       "name" : "James",
-      "position" : 8,
-      "url" : "https://www.last.fm/music/James"
+      "position" : 8
    },
    {
       "count" : "7",
       "name" : "Blur",
-      "position" : 9,
-      "url" : "https://www.last.fm/music/Blur"
+      "position" : 9
    },
    {
       "count" : "7",
       "name" : "R.E.M.",
-      "position" : 10,
-      "url" : "https://www.last.fm/music/R.E.M."
+      "position" : 10
    }
 ]
 
